@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>SharepointGroup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SharepointGroup</shortDescription>
+        <value>79b6f0d9-eae9-46d4-9395-8e3d4f994228</value>
+    </labels>
+    <labels>
+        <fullName>calenderid</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>calenderid</shortDescription>
+        <value>AQMkAGZlN2JhNjk2LWUwNzktNGM3YS04NzVmLTA0ZGVjM2FjMzRmNABGAAADUqnaAshhiUWwgE23Rn_ePgcAuArfjk5clUyx2-xwve2TLAAAAgEGAAAAuArfjk5clUyx2-xwve2TLAAAAQFbWQAAAA==</value>
+    </labels>
+</CustomLabels>

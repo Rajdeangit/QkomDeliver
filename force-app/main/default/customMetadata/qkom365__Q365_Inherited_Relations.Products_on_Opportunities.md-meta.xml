@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Products on Opportunities</label>
+    <protected>false</protected>
+    <values>
+        <field>qkom365__Child_Object__c</field>
+        <value xsi:type="xsd:string">OpportunityLineItem</value>
+    </values>
+    <values>
+        <field>qkom365__Lookup_Field__c</field>
+        <value xsi:type="xsd:string">OpportunityId</value>
+    </values>
+    <values>
+        <field>qkom365__Optional_Lookup__c</field>
+        <value xsi:type="xsd:string">Product2Id</value>
+    </values>
+    <values>
+        <field>qkom365__Parent_Object__c</field>
+        <value xsi:type="xsd:string">Opportunity</value>
+    </values>
+</CustomMetadata>
